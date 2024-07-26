@@ -8,6 +8,7 @@
 - 🇬🇧 [Instructions in English.](README.md).
 - 🇫🇷 [Instruction en Français](README_fr.md).
 - 🇩🇪 [Anleitung auf Deutsch](README_de.md).
+- 🇱🇹 [Instrukcija lietuviškai](README_ltu.md).
 - 🇪🇸 [Instrucciones en Español](README_es.md).
 - 🇮🇹 [Istruzioni in Italiano](README_it.md).
 - 🇧🇷 [Instrução em Português](README_ptbr.md).
@@ -27,6 +28,7 @@
 | Inglês | ![Static Badge](https://img.shields.io/badge/3.23.1a-LIVE-brightgreen) | Importado dos arquivos do jogo |
 | Francês - França | ![Static Badge](https://img.shields.io/badge/3.23.1a-LIVE-brightgreen) | Gerado a partir de [circuspes.fr](https://traduction.circuspes.fr) e [SPEED0U/StarCitizenFrenchTranslation](https://github.com/SPEED0U/StarCitizenFrenchTranslation) |
 | Alemão - Alemanha | ![Static Badge](https://img.shields.io/badge/3.23.1a-LIVE-brightgreen) | Aqui |
+| Lituano - Lituânia | ![Static Badge](https://img.shields.io/badge/3.22.1-LIVE-brightgreen) | Aqui |
 | Italiano - Itália | ![Static Badge](https://img.shields.io/badge/3.23.0-LIVE-yellow) | [GattoMatto](https://robertsspaceindustries.com/citizens/GattoMatto) e [MrRevo](https://robertsspaceindustries.com/citizens/MrRevo) |
 | Português - Brasil | ![Static Badge](https://img.shields.io/badge/3.23.1a-LIVE-brightgreen)| Aqui |
 | Espanhol - América Latina | ![Static Badge](https://img.shields.io/badge/x.xx.x-LIVE-darkred) |
@@ -53,6 +55,7 @@
     | English | `g_language = english` |
     | French - France | `g_language = french_(france)` |
     | German - Germany | `g_language = german_(germany)` |
+    | Lituano - Lituânia | `g_language = english` |
     | Italian - Italy | `g_language = italian_(italy)` |
     | Portuguese - Brazil | `g_language = portuguese_(brazil)` |
     | Spanish - Latin America | `g_language = spanish_(latin_america)` |

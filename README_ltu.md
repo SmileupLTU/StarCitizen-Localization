@@ -8,6 +8,7 @@
 - 🇬🇧 [Instructions in English.](README.md).
 - 🇫🇷 [Instruction en Français](README_fr.md).
 - 🇩🇪 [Anleitung auf Deutsch](README_de.md).
+- 🇱🇹 [Instrukcija lietuviškai](README_ltu.md).
 - 🇪🇸 [Instrucciones en Español](README_es.md).
 - 🇮🇹 [Istruzioni in Italiano](README_it.md).
 - 🇧🇷 [Instrução em Português](README_ptbr.md).
@@ -27,11 +28,11 @@
 | Anglų | ![Static Badge](https://img.shields.io/badge/3.23.1a-LIVE-brightgreen) | Importuota iš žaidimo failų |
 | Prancūzų - Prancūzija | ![Static Badge](https://img.shields.io/badge/3.23.1a-LIVE-brightgreen) | Generuota iš [circuspes.fr](https://traduction.circuspes.fr) ir [SPEED0U/StarCitizenFrenchTranslation](https://github.com/SPEED0U/StarCitizenFrenchTranslation) |
 | Vokiečių - Vokietija | ![Static Badge](https://img.shields.io/badge/3.23.1a-LIVE-brightgreen) | Čia |
+| Lietuvių - Lietuva | ![Static Badge](https://img.shields.io/badge/3.23.1a-LIVE-brightgreen) | Čia |
 | Italų - Italija | ![Static Badge](https://img.shields.io/badge/3.23.0-LIVE-yellow) | [GattoMatto](https://robertsspaceindustries.com/citizens/GattoMatto) ir [MrRevo](https://robertsspaceindustries.com/citizens/MrRevo) |
 | Portugalų - Brazilija | ![Static Badge](https://img.shields.io/badge/3.23.1a-LIVE-brightgreen)| Čia |
 | Ispanų - Lotynų Amerika | ![Static Badge](https://img.shields.io/badge/x.xx.x-LIVE-darkred) |
 | Ispanų - Ispanija | ![Static Badge](https://img.shields.io/badge/3.23.1a-LIVE-brightgreen) | Čia |
-
 ---
 ## Diegimo vadovas
 
@@ -52,6 +53,7 @@
     | Anglų | `g_language = english` |
     | Prancūzų - Prancūzija | `g_language = french_(france)` |
     | Vokiečių - Vokietija | `g_language = german_(germany)` |
+    | Lietuvių - Lietuva | `g_language = english` |
     | Italų - Italija | `g_language = italian_(italy)` |
     | Portugalų - Brazilija | `g_language = portuguese_(brazil)` |
     | Ispanų - Lotynų Amerika | `g_language = spanish_(latin_america)` |
