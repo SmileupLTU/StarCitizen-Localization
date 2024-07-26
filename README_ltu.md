@@ -43,7 +43,7 @@
 3. Paleiskite žaidimą ir mėgaukitės vertimu!
 
 
-### Rankinis įdiegimo instrukcija
+### Rankinio įdiegimo instrukcija
 
 Kadangi lietuvių kalba nėra oficialiai palaikoma kalba, mums teko pakeisti. 
 Pasirinkome anglų kalbą, todėl reikia įdėti  `global.ini` (Lietuvių vertimo) failą į anglų kalbos aplanką Star Citizen kataloge (pavyzdžiui: `StarCitizen\LIVE\data\Localization\english\global.ini`). Be to, pridėkite eilutę `g_language = english` į `user.cfg` failą.
