@@ -34,19 +34,25 @@
 | Ispanų - Lotynų Amerika | ![Static Badge](https://img.shields.io/badge/x.xx.x-LIVE-darkred) |
 | Ispanų - Ispanija | ![Static Badge](https://img.shields.io/badge/3.23.1a-LIVE-brightgreen) | Čia |
 ---
-## Diegimo vadovas
+## Įdiegimo vadovas
 
-### Automatinis diegimas
+### Automatinis įdiegimas
 1. Atsisiųskite [install_localization.ps1](https://github.com/Dymerz/StarCitizen-Localization/releases/latest/download/install_localization.ps1) skriptą.
 2. Dešiniuoju pelės mygtuku spustelėkite atsisiųstą failą (**install_localization.ps1**) ir pasirinkite `Run with PowerShell`.
   > ℹ️ Šis skriptas automatiškai atsisiųs naujausią lokalizacijos failų versiją, įdiegs juos į `Localization` aplanką ir sukonfigūruos `user.cfg` failą.
 3. Paleiskite žaidimą ir mėgaukitės vertimu!
 
-### Rankinis diegimas
+
+### Rankinis įdiegimo instrukcija
+
+Kadangi lietuvių kalba nėra oficialiai palaikoma kalba, mums teko pakeisti. 
+Pasirinkome anglų kalbą, todėl reikia įdėti  `global.ini` (Lietuvių vertimo) failą į anglų kalbos aplanką Star Citizen kataloge (pavyzdžiui: `StarCitizen\LIVE\data\Localization\english\global.ini`). Be to, pridėkite eilutę `g_language = english` į `user.cfg` failą.
+
 1. Atsisiųskite [Localization.zip](https://github.com/Dymerz/StarCitizen-Localization/releases/latest/download/Localization.zip) failą.
 2. Išskleiskite atsisiųstą failą į `\StarCitizen\LIVE\data\`. (pvz., `C:\Program Files\Roberts Space Industries\StarCitizen\LIVE\data\`)
-3. Sukurkite arba redaguokite šį failą: `\StarCitizen\LIVE\user.cfg`. (pvz., `C:\Program Files\Roberts Space Industries\StarCitizen\LIVE\user.cfg`)
-4. Priklausomai nuo norimos naudoti kalbos, pridėkite vieną iš šių eilučių į failą:
+3. Įdėkite lietuvišką `global.ini` (Lietuvių vertimo) failą į anglų kalbos aplanką Star Citizen kataloge. (pvz., `C:\Program Files\Roberts Space Industries\StarCitizen\LIVE\data\Localization\english\global.ini`)
+4. Sukurkite arba redaguokite šį failą: `\StarCitizen\LIVE\user.cfg`. (pvz., `C:\Program Files\Roberts Space Industries\StarCitizen\LIVE\user.cfg`)
+5. Priklausomai nuo norimos naudoti kalbos, pridėkite vieną iš šių eilučių į failą:
 
     | Kalba |   |
     |---|---|
